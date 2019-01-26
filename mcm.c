@@ -1,12 +1,5 @@
 /*********************************************************************************
-	Assignment: Sub: Design And Analysis of Algorithm							 *
-																				 *
-	Program Name: Matrix Chain Multiplication									 *
-	Coders: 1: Name: Nikhil S. Paramane.											 *
-				Roll Number: 16220												 *
-			2: Vishal Kangane													 *
-				Roll Number: 16213	 											 *
-				M.Sc.(IMCA-1)													 *
+	Program : Matrix Chain Multiplication									 *
 *********************************************************************************/
 #include <stdio.h>
 #include<stdlib.h>
